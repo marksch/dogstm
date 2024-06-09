@@ -1,5 +1,6 @@
 <?php
 //Adoption Manager DB details
+//Need to change!
 $dbHost = '';
 $dbUsername = '';
 $dbPassword = '';
